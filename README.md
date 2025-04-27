@@ -1,7 +1,5 @@
 # dopamine
-Acknowledgment and Disclosure
-This manuscript was conceptualized and authored by the submitting author. Portions of the text were structured and synthesized using OpenAI’s ChatGPT-4 under the author’s direction and editorial supervision. All intellectual contributions, hypotheses, and conclusions presented herein originate from the author, who retains full responsibility for the content.
-
+Written by AI
 1. Abstract
 As large-scale neural networks approach diminishing returns in performance relative to parameter count and training data, a new direction is needed to overcome the plateau. This paper proposes a conceptual framework for AI development based not on raw scale or static optimization, but on adaptive structural reinforcement, modeled after dopaminergic reward in biological brains.
 Rather than training fixed topologies to minimize loss, this approach centers around growing and reinforcing internal pathways that lead to rewarded outcomes. These rewards need not be extrinsic. Instead, they are internally generated signals for novelty, coherence, pattern discovery, and predictive success — creating a self-incentivizing intelligence system.
